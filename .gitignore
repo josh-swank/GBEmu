@@ -1,7 +1,17 @@
+# Roms
+Roms/*
+
+# Visual Studio
+.vs/*
+
 # Prerequisites
 *.d
 
 # Compiled Object files
+GameboyEmu/Debug/*
+GameboyEmu/Release/*
+Debug/*
+Release/*
 *.slo
 *.lo
 *.o
